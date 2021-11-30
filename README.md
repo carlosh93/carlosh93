@@ -13,7 +13,7 @@ I am a final-year Ph.D Student in Computer Science with seven years of progressi
 
 My current research lies at the intersection of computer vision and computational imaging. I specifically design imaging systems to provide privacy protection of images and videos (in hardware) and perform vision tasks.
 
-I also research unsupervised classification, compressive spectral imaging, optical code design, and sparse representation. I'm also a software developer with seven years of progressive experience, where  I have participated in different academic and industry projects.
+I also research unsupervised classification, compressive spectral imaging, optical code design, and sparse representation. I'm also a software developer and I have participated in different academic and industry projects.
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif?raw=true" width="408" height="318" />
 </br>
