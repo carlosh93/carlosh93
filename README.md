@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phdcarloshinojosa/)
 [![GScholar Badge](https://img.shields.io/badge/GScholar-%2312100E.svg?&style=for-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=KP02_jwAAAAJ)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/CarlosH_93)
-[![GMail Badge](https://img.shields.io/badge/-Email-DB4437?style=flat-square&logo=gmail&logoColor=white)](https://instagram.com/gkassym/)
+[![GMail Badge](https://img.shields.io/badge/-Email-DB4437?style=flat-square&logo=gmail&logoColor=white)](mailto:carlos.hinojosa93@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/carlos_hinojosa)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=carlosh93.carlosh93)
