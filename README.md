@@ -21,7 +21,7 @@ I also research unsupervised classification, compressive spectral imaging, optic
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Python   2 hrs 22 mins   █████████████████████████   100.00 % 
+Python       2 hrs 22 mins   █████████████████████████   99.99 % 
 ```
 <!--END_SECTION:waka-->
 
