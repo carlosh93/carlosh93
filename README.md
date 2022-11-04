@@ -22,11 +22,11 @@ I also research unsupervised classification, compressive spectral imaging, optic
 <!--START_SECTION:waka-->
 
 ```text
-Jupyter          2 hrs 37 mins   █████████████████▓░░░░░░░   71.19 %
-Python           35 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.22 %
-Markdown         15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
-BibTeX           8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-GitIgnore file   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+Jupyter          2 hrs 37 mins   █████████████▓░░░░░░░░░░░   54.39 %
+Python           1 hr 43 mins    █████████░░░░░░░░░░░░░░░░   35.99 %
+Markdown         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+BibTeX           8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+GitIgnore file   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 ```
 
 <!--END_SECTION:waka-->
