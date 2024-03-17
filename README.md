@@ -9,7 +9,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=carlosh93.carlosh93)
 
-I am a final-year Ph.D Student in Computer Science with seven years of progressive experience in scientific research and software development. I love coding, researching, reading, playing soccer and traveling.
+I am a Postdoctoral fellow at King Abdullah University of Science and Technology (KAUST). I love coding, researching, reading, playing soccer and traveling.
 
 My current research lies at the intersection of computer vision and computational imaging. I specifically design imaging systems to provide privacy protection of images and videos (in hardware) and perform vision tasks.
 
