@@ -22,11 +22,10 @@ I also research unsupervised classification, compressive spectral imaging, optic
 <!--START_SECTION:waka-->
 
 ```txt
-Python         5 hrs 48 mins   █████████████████████▓░░░   86.01 %
-Shell Script   28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
-Bash           25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
-Text           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-YAML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Python         3 hrs 56 mins   █████████████████████▓░░░   86.75 %
+Shell Script   18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
+Bash           17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+Markdown       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
